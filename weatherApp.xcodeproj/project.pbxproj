@@ -13,6 +13,7 @@
 		8E803A5F28F3B5D600D14BEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E803A5D28F3B5D600D14BEF /* Main.storyboard */; };
 		8E803A6128F3B5D900D14BEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E803A6028F3B5D900D14BEF /* Assets.xcassets */; };
 		8E803A6428F3B5D900D14BEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E803A6228F3B5D900D14BEF /* LaunchScreen.storyboard */; };
+		8E803A6E28F3BDEB00D14BEF /* CityListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E803A6D28F3BDEB00D14BEF /* CityListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8E803A6028F3B5D900D14BEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E803A6328F3B5D900D14BEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E803A6528F3B5D900D14BEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E803A6D28F3BDEB00D14BEF /* CityListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8E803A5928F3B5D600D14BEF /* SceneDelegate.swift */,
 				8E803A5B28F3B5D600D14BEF /* ViewController.swift */,
 				8E803A5D28F3B5D600D14BEF /* Main.storyboard */,
+				8E803A6D28F3BDEB00D14BEF /* CityListViewController.swift */,
 				8E803A6028F3B5D900D14BEF /* Assets.xcassets */,
 				8E803A6228F3B5D900D14BEF /* LaunchScreen.storyboard */,
 				8E803A6528F3B5D900D14BEF /* Info.plist */,
@@ -141,6 +144,7 @@
 				8E803A5C28F3B5D600D14BEF /* ViewController.swift in Sources */,
 				8E803A5828F3B5D600D14BEF /* AppDelegate.swift in Sources */,
 				8E803A5A28F3B5D600D14BEF /* SceneDelegate.swift in Sources */,
+				8E803A6E28F3BDEB00D14BEF /* CityListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

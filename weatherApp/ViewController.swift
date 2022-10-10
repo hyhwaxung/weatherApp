@@ -8,6 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    let searchBar = UISearchBar()
 
     override func viewDidLoad() {
         super.viewDidLoad()
